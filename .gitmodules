@@ -1,0 +1,3 @@
+[submodule "Submodules/gocd-bug1-submodule"]
+	path = Submodules/gocd-bug1-submodule
+	url = https://github.com/badbort/gocd-bug1-submodule.git
